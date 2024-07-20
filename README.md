@@ -1,5 +1,5 @@
 <h1 align="center">
-    DSA Preparation | Java | Leetcode Solutions
+    Welcome to Structured Leetcode Solutions | Java ☕
 </h1>
 
 <p align="center">
@@ -21,3 +21,14 @@
 <p align="center">
     Welcome to the Complete DSA Preparation Course - Java! This repository is your comprehensive guide to mastering Data Structures and Algorithms (DSA) using Java. Whether you're a beginner or looking to sharpen your skills, this course covers all the essential topics needed to excel in coding interviews and software development.
 </p>
+
+> "For coding interview preparation, LeetCode & GeeksforGeeks is one of the best online resource providing a rich library of more than 500+ real coding interview questions for you "
+
+
+<h2 align="center">
+    Table Content
+</h2>
+
+:green_square:
+:orange_square:
+:red_square:
