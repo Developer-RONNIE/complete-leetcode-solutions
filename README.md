@@ -81,12 +81,16 @@
 <h2 align="center">
     Connect With Me 
 </h2>
- Let me know your views on the repository or any changes or improvements at 
- [LinkedIn](https://www.linkedin.com/in/alapan-banerjee/), [Telegram](https://telegram.me/DeveloperRONNIE)
 
- <a href="https://telegram.me/DeveloperRONNIE" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/telegram.png" alt="telegram" width="60"/></a>
-<a href="https://www.linkedin.com/in/alapan-banerjee/" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/linkedin.png" alt="Linkedin" width="60"/></a>
-<a href="https://x.com/ronnie002_" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/twitter-x-logo.png" alt="X" width="85"/></a>
+Let me know your views on the repository or any changes or improvements at <br>
+[LinkedIn](https://www.linkedin.com/in/alapan-banerjee/), [Telegram](https://telegram.me/DeveloperRONNIE)
+
+<p>
+    <a href="https://telegram.me/DeveloperRONNIE" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/telegram.png" alt="telegram" width="60"/></a>
+    <a href="https://x.com/ronnie002_" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/twitter-x-logo.png" alt="X" width="60"/></a>
+    <a href="https://www.linkedin.com/in/alapan-banerjee/" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/linkedin.png" alt="Linkedin" width="60"/></a>
+</p>
+
 
 
 
