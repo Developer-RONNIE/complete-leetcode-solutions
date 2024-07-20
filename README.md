@@ -1,7 +1,10 @@
 <h1 align="center">
-  <a name="logo"><img src="#" alt="Complete DSA Preparation" width="750"></a>
-  <br>
-  Complete DSA Preparation Course - Java
+   Complete DSA Preparation Course - Java
+   <br>
+   <a name="logo">
+        <img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/Leetcode%20Banner%20.png" alt="Complete DSA Preparation" width="750">
+    </a>
+  
 </h1>
 
 <h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
