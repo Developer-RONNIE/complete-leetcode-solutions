@@ -9,7 +9,7 @@
 
   <br>
 
-  <h4 >Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
+  <h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
 
   <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java" alt="Github" title="github">
     <img src="https://img.shields.io/badge/DSA--Guide--Java-blue?style=for-the-badge&logo=github&logoColor=white" align="center" alt="Github"/>
