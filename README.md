@@ -34,45 +34,84 @@
 :red_square:
 
 ### Mathematics
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Bits Manipulation
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Recursion
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Arrays
-
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Searching
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Sorting
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Matrix
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Hashing
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### String
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Linked List
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Stack
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Queue
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Tree
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Binary Search Tree
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Heap
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Graph
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Greedy
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Backtracking
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Dynamic Programming
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 ### Trie
+|  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
+|-----|----------------|----------|---------------|---------|-------------|
 
 
 ---
