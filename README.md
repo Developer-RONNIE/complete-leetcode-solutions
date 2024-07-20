@@ -1,8 +1,11 @@
 <h1 align="center">
-   Complete DSA Preparation Course - Java
+    DSA Preparation | Java | Leetcode Solutions
    <br>
    <a name="logo">
         <img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/Leetcode%20Banner%20.png" alt="Complete DSA Preparation" width="750">
+    </a>
+    <a href="https://github.com/Developer-RONNIE/DSA-Bootcamp-Java" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/DSA--Guide--Java-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
   
 </h1>
