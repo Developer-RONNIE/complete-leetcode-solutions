@@ -53,10 +53,29 @@
 ### Bits Manipulation
 |  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
 |-----|----------------|----------|---------------|---------|-------------|
+|1| [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)| | | |:green_square: Easy| Bits, Modulo |
+|2| [Rightmost different bit ](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)| | | |:green_square: Easy| XOR, Modulo |
+|3| [Check whether K-th bit is set or not ](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)| | | |:green_square: Easy| XOR, Modulo |
+|4| [Count total set bits ](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)| | | |:orange_square: Medium| RIght shift |
+|5| [Bit Difference ](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)| | | |:green_square: Easy| Bits |
+|6| [Number is sparse or not  ](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)| | | |:green_square: Easy| Bits |
+|7| [Longest Consecutive 1's  ](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)| | | |:green_square: Easy| Bits |
+|8| [ Gray Code    ](https://practice.geeksforgeeks.org/problems/gray-code4907/1)| | | |:green_square: Easy| Xor, Right Shift |
+|9| [Gray to Binary equivalent   ](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)| | | |:green_square: Easy| Xor, Right Shift |
+|10| [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)| | | |:green_square: Easy| AND |
+|11| [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)| | | |:green_square: Easy| OR |
+|12| [Maximum AND Value ](https://practice.geeksforgeeks.org/problems/maximum-and-value-1587115620/1)| | | |:orange_square: Medium| AND |
 
 ### Recursion
 |  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
 |-----|----------------|----------|---------------|---------|-------------|
+|1| [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)| | | |:green_square: Easy| Recursion|
+|2| [Sum Of Digits ](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1)| | | |:green_square: Easy|Recursion|
+|3| [Count Total Digits in a Number  ](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1)| | | |:green_square: Easy|Recursion|
+|4| [Digital Root  ](https://practice.geeksforgeeks.org/problems/digital-root/1/)| | | |:orange_square: Medium|Recursion|
+|5| [Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1/)| | | |:green_square: Easy|Recursion|
+|6| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
+|7| [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)| | | |:orange_square: Medium|Recursion|
 
 ### Arrays
 |  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
@@ -73,6 +92,19 @@
 ### Matrix
 |  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
 |-----|----------------|----------|---------------|---------|-------------|
+|1|[What is Multidimensional Arrays c++](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/multi%20dimension%20array.pdf)|[Video](https://youtu.be/TfE2c7SXaUo)|:green_square: Easy| Matrix, Array |
+|2|[Sum of upper and lower triangles ](https://practice.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Sum%20of%20upper%20and%20lower%20triangles.pdf)|[Solution](https://youtu.be/YuqtMC6Nvg8)|:green_square: Easy| Matrix, Array|
+|3|[Transpose of Matrix ](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Transpose%20of%20Matrix.pdf)|[Solution](https://youtu.be/n3-XWx-Inns)|:green_square: Easy| Matrix, Array|
+|4|[Rotate by 90 degree ](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Rotate%20by%2090%20degree.pdf)|[Solution](https://youtu.be/yIUryrv2I7I)|:green_square: Easy| Matrix, Array|
+|5|[Multiply the matrices  ](https://practice.geeksforgeeks.org/problems/multiply-the-matrices-1587115620/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Multiply%20two%20matrices.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Multiply%20two%20matrices.pdf)|[Solution](https://youtu.be/DvG9SF2VXL4)|:green_square: Easy| Matrix, Array|
+|6|[ Spirally traversing a matrix  ](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Spirally%20traversing%20a%20matrix.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Spirally%20traversing%20a%20matrix%20.pdf)|[Solution](https://youtu.be/4mSTiSBk_iY)|:orange_square: Medium| Matrix, Array|
+|7|[ Interchanging the rows of a Matrix   ](https://practice.geeksforgeeks.org/problems/reversing-the-rows-of-a-matrix-1587115621/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Interchanging%20the%20rows%20of%20a%20Matrix.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Interchanging%20The%20Rows%20of%20a%20Matrix.pdf)|[Solution](https://youtu.be/72UDspLEZAg)|:green_square: Easy| Matrix, Array|
+|8|[ Matrix Interchange ](https://practice.geeksforgeeks.org/problems/matrix-interchange/1)||| Practice |:green_square: Easy| Matrix, Array|
+|9|[ Search in a row-column sorted Matrix   ](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Search%20in%20a%20row-column%20sorted%20Matrix.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Search%20in%20a%20row-column%20sorted%20Matrix.pdf)|[Solution](https://youtu.be/Gy0WeuIuTg4)|:orange_square: Medium| Matrix, Array|
+|10|[ Boolean Matrix   ](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Boolean%20Matrix.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Boolean%20Matrix.pdf)|[Solution](https://youtu.be/TBTNZXzwpP8)|:orange_square: Medium| Matrix, Array|
+
+
+
 
 ### Hashing
 |  #  |      Title     |   Code   |    Resource   |  Video  | Difficulty  |                  
